@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <i class="fas fa-shield-alt mr-3 text-blue-400"></i>
+	<img src="https://cybertrace.free.nf/shield.png" align="center" width="30%">	
 </p>
 <h1 align="center">CYBERTRACE</h1>
 <p align="center">
