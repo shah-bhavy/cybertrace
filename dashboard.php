@@ -92,7 +92,7 @@ if (!isAccessGranted()) {
                         <div class="text-xl font-bold mb-2">View Docs</div>
                         <div>Access documentation and guides for using CyberTrace tools.</div>
                     </div>
-                    <a href="#" class="btn">Read Docs</a>
+                    <a href="docs.php" class="btn">Read Docs</a>
                 </div>
                 <!-- About Us Card -->
                 <div class="card card-about rounded-2xl p-6 shadow-lg">
@@ -101,7 +101,7 @@ if (!isAccessGranted()) {
                         <div class="text-xl font-bold mb-2">Know About Us</div>
                         <div>Learn more about the CyberTrace team and our mission.</div>
                     </div>
-                    <a href="#" class="btn">About Us</a>
+                    <a href="about.php" class="btn">About Us</a>
                 </div>
                 <!-- Testimonial Card -->
                 <div class="card card-testimonial rounded-2xl p-6 shadow-lg">
