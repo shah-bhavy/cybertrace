@@ -1,5 +1,11 @@
+<html>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</html>
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
+    <i class="fas fa-shield-alt mr-3 text-blue-400"></i>
 </p>
 <h1 align="center">CYBERTRACE</h1>
 <p align="center">
@@ -107,6 +113,8 @@
 
 ```
 cccs/
+├── api/
+    ├── mock.php 
 ├── config.php           # Configuration and session management
 ├── index.php           # Access key entry and login
 ├── dashboard.php       # Main dashboard UI
