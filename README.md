@@ -1,7 +1,7 @@
 
 
 <p align="center">
-	<img src="https://cybertrace.free.nf/shield.png" align="center" width="30%">	
+	<img src="https://cybertrace.free.nf/shield.png" align="center" width="100px">	
 </p>
 <h1 align="center">CYBERTRACE</h1>
 <p align="center">
