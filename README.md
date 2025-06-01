@@ -36,31 +36,31 @@
 ## 📸 Screenshots
 
 | Dashboard | <br>
-<img src="screenshots/Dashboard.png" align="center">
+<img src="screenshots/Dashboard.png" align="center" width="40%">
 
 | Detecting Devices |
-<img src="screenshots/findDevices.png" align="center">
+<img src="screenshots/findDevices.png" align="center" width="40%">
 
 | Device Connected |
-<img src="screenshots/deviceConnected.png" align="center">
+<img src="screenshots/deviceConnected.png" align="center" width="40%">
 
 | Folders Preview |
-<img src="screenshots/previewFolders.png" align="center">
+<img src="screenshots/previewFolders.png" align="center" width="40%">
 
 | Call Logs |
-<img src="screenshots/CallLogs.png" align="center">
+<img src="screenshots/CallLogs.png" align="center" width="40%">
 
 | Chats Preview |
-<img src="screenshots/previewChats.png" align="center">
+<img src="screenshots/previewChats.png" align="center" width="40%">
 
 | AI Insights |
-<img src="screenshots/aiInsights.png" align="center">
+<img src="screenshots/aiInsights.png" align="center" width="40%">
 
 | CSV AI Insights |
-<img src="screenshots/csvFile.png" align="center">
+<img src="screenshots/csvFile.png" align="center" width="40%">
 
 | Video Tutorial |
-<video width="630" height="300" src="https://drive.google.com/file/d/1X5PycvU6AlpJeIM3HS3Ke4WCcH3jMh7T/view?usp=sharing"></video>
+https://drive.google.com/file/d/1X5PycvU6AlpJeIM3HS3Ke4WCcH3jMh7T/view?usp=sharing
 
 
 ---
