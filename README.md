@@ -38,10 +38,29 @@
 | Dashboard | <br>
 <img src="screenshots/Dashboard.png" align="center">
 
+| Detecting Devices |
+<img src="screenshots/findDevices.png" align="center">
+
+| Device Connected |
+<img src="screenshots/deviceConnected.png" align="center">
+
+| Folders Preview |
+<img src="screenshots/previewFolders.png" align="center">
+
 | Call Logs |
+<img src="screenshots/CallLogs.png" align="center">
+
+| Chats Preview |
+<img src="screenshots/previewChats.png" align="center">
 
 | AI Insights |
-|  |  |  |
+<img src="screenshots/aiInsights.png" align="center">
+
+| CSV AI Insights |
+<img src="screenshots/csvFile.png" align="center">
+
+| Video Tutorial |
+<video width="630" height="300" src="https://drive.google.com/file/d/1X5PycvU6AlpJeIM3HS3Ke4WCcH3jMh7T/view?usp=sharing"></video>
 
 
 ---
