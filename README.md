@@ -35,8 +35,8 @@
 
 ## 📸 Screenshots
 
-| Dashboard |
-<img src="screenshots/Dashboard.png" align="center" width="100px">
+| Dashboard | <br>
+<img src="screenshots/Dashboard.png" align="center">
 
 | Call Logs |
 
