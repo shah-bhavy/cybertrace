@@ -36,7 +36,7 @@
 ## 📸 Screenshots
 
 | Dashboard | Call Logs | AI Insights |
-| --- | --- | --- |
+| <img src="https://cybertrace.free.nf/shield.png" align="center" width="100px"> | <img src="https://cybertrace.free.nf/shield.png" align="center" width="100px"> | <img src="https://cybertrace.free.nf/shield.png" align="center" width="100px"> |
 |  |  |  |
 
 *Add your own screenshots to the* `screenshots/` *folder and update the links above.*
